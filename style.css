@@ -34,6 +34,11 @@ header
 	text-align: center;
 	font-weight: bold;
 }
+
+.navdeux
+{
+	display: block;
+}
 /*End of header*/
 
 
